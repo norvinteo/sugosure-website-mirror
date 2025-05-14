@@ -12,4 +12,17 @@ The website follows the original structure:
 
 ## Viewing the Website
 
-You can access the mirrored website by navigating to the GitHub Pages URL for this repository.
+You can access the mirrored website at: https://norvinteo.github.io/sugosure-website-mirror/
+
+The website is simplified and may not include all functionality of the original site. It is provided as a reference only.
+
+## How This Mirror Was Created
+
+1. Used wget to download the website recursively
+2. Fixed broken links and paths
+3. Organized assets in the same structure as the original site
+4. Uploaded to GitHub and enabled GitHub Pages
+
+## Notes
+
+This mirror was created as part of a project to preserve the website after the company ceased operations. The notice on the website states: "due to the planned wind-down of ConnectedHealth Pte Ltd, SugoSure has ceased operations."
