@@ -1,0 +1,4 @@
+# Configure GitHub Pages
+theme: jekyll-theme-minimal
+baseurl: /sugosure-website-mirror
+url: https://norvinteo.github.io
